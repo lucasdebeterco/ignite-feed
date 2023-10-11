@@ -9,6 +9,7 @@ export function Sidebar() {
             />
 
             <div className={styles.profile}>
+                <img src='https://github.com/lucasdebeterco.png' />
                 <strong>Lucas Debeterco</strong>
                 <span>Web Developer</span>
             </div>
