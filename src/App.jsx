@@ -9,7 +9,7 @@ const posts = [
     {
         id: 1,
         author: {
-            avatarUrl: 'https://github.com/lucasdebeterco',
+            avatarUrl: 'https://github.com/lucasdebeterco.png',
             name: 'Lucas Debeterco',
             role: 'Student @ Rocketseat'
         },
@@ -23,7 +23,7 @@ const posts = [
     {
         id: 2,
         author: {
-            avatarUrl: 'https://github.com/diego3g',
+            avatarUrl: 'https://github.com/diego3g.png',
             name: 'Lucas Debeterco',
             role: 'CEO @ Rocketseat'
         },
