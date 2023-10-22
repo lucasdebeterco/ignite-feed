@@ -1,6 +1,6 @@
 import styles from "./Post.module.css"
-import { Comment } from "./Comment.jsx"
-import { Avatar } from "./Avatar.jsx"
+import { Comment } from "./Comment.tsx"
+import { Avatar } from "./Avatar.tsx"
 import { format, formatDistanceToNow } from 'date-fns'
 import ptBR from 'date-fns/locale/pt-BR'
 import {useState} from "react";
